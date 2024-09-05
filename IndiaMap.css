@@ -1,0 +1,15 @@
+.india-map-container {
+    width: 100%;
+    text-align: center;
+}
+
+.state {
+    fill: #ddd;
+    stroke: #333;
+    stroke-width: 2;
+    cursor: pointer;
+}
+
+.state:hover {
+    fill: #2d1f96;
+}
